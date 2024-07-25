@@ -1,4 +1,4 @@
-# ATM_Transaction_Dashboard
+# Bank_of_Baroda_ATM_Transaction_Analysis_Dashboard
 Power BI Dashboard
 
 Project objectives
